@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OpenClassroom_Window:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OpenClassroom_Window/</output-path>
+    <root id="archive" name="OpenClassroom_Window.jar">
+      <element id="module-output" name="OpenClassroom_Fenêtre.main" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
